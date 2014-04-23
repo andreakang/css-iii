@@ -1,24 +1,32 @@
 .box{
 	width:200px;
 	height:200px;
+	float:left;
+	margin:4px;
 }
 
 #boxA{
 	background-color: #01628C;
+	top:0;left:0;
 }
 
 #boxB{
 	background-color: #00B0D2;
+	top:100px;left:100px;
 }
 
 #boxC{
 	background-color: #E6F7F9;
+	top:200px;left:200px;
 }
 
 #boxD{
 	background-color: #96C34C;
+	top:300px;left:300px;
 }
 
 #boxE{
 	background-color: #333;
+	top:400px;left:400px;
 }
+
